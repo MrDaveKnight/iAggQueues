@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>3899c8104fe1fb40ea338e328110c7da</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_iagg_queue_tables">
+    <x_snc_iagg_queue_tables action="INSERT_OR_UPDATE">
+        <base_classification>sys_user</base_classification>
+        <meta display_value="User" name="x_snc_iagg_q_user">bbfd5bc84f21fb40ea338e328110c7c6</meta>
+        <number>QUE0001037</number>
+        <source>sys_user</source>
+        <sys_created_by>dave.knight</sys_created_by>
+        <sys_created_on>2019-05-16 23:42:24</sys_created_on>
+        <sys_id>3899c8104fe1fb40ea338e328110c7da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dave.knight</sys_updated_by>
+        <sys_updated_on>2019-05-16 23:42:24</sys_updated_on>
+    </x_snc_iagg_queue_tables>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>dave.knight</sys_created_by>
+        <sys_created_on>2019-05-17 01:53:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>11b7ac1c4f65fb40ea338e328110c76a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QUE0001037</sys_name>
+        <sys_package display_value="iAggregation Queues" source="x_snc_iagg_q">8867ffbf4fd1bb40ea338e328110c738</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="iAggregation Queues">8867ffbf4fd1bb40ea338e328110c738</sys_scope>
+        <sys_update_name>sys_metadata_link_11b7ac1c4f65fb40ea338e328110c76a</sys_update_name>
+        <sys_updated_by>dave.knight</sys_updated_by>
+        <sys_updated_on>2019-05-17 01:53:27</sys_updated_on>
+        <tablename>x_snc_iagg_queue_tables</tablename>
+    </sys_metadata_link>
+</record_update>
